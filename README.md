@@ -1,7 +1,7 @@
 # UML Library
 
-[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/uml-solutions/uml-library/blob/master/LICENSE.md)
-[![issues](https://img.shields.io/github/issues/uml-solutions/uml-library.svg)](https://github.com/uml-solutions/uml-library/issues)
+[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
+[![issues](https://img.shields.io/github/issues/uml-solutions/uml-library.svg?style=flat-square)](https://github.com/uml-solutions/uml-library/issues)
 
 
 ## Contributing
