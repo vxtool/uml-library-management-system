@@ -24,7 +24,6 @@
   - [Issuing book](diagrams/sequence/)
   - [Returning book](diagrams/sequence/)
  - [Component diagram](diagrams/component/)
- - [Deployment Diagram](diagrams/deployment/)
 
 
 ## Software
