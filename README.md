@@ -11,8 +11,8 @@
 
  - [Use Case Diagram](diagrams/use-case/library-management-system.jpeg)
  - Activity Diagram
-  - [Issue Book in Library](diagrams/activity/)
-  - [Return Book in Library](diagrams/activity/)
+  - [Issue Book in Library](diagrams/activity/issue-book-in-library.jpeg)
+  - [Return Book in Library](diagrams/activity/return-book-in-library.jpeg)
  - [Class Diagram](diagrams/class/)
  - State diagram
   - [Book](diagrams/state/book.jpeg)
