@@ -15,8 +15,8 @@
   - [Return Book in Library](diagrams/activity/)
  - [Class Diagram](diagrams/class/)
  - State diagram
-  - [Book](diagrams/state/)
-  - [Librarian](diagrams/state/)
+  - [Book](diagrams/state/book.jpeg)
+  - [Librarian](diagrams/state/librarian.jpeg)
  - Collaboration diagram
   - [Issuing Book](diagrams/collaboration/)
   - [Returning Book](diagrams/collaboration/)
