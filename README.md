@@ -9,7 +9,7 @@
 
 ## Summary:
 
- - [Use Case Diagram](diagrams/use-case/)
+ - [Use Case Diagram](diagrams/use-case/library-management-system.jpg)
  - Activity Diagram
   - [Issue Book in Library](diagrams/activity/)
   - [Return Book in Library](diagrams/activity/)
