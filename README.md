@@ -9,21 +9,21 @@
 
 ## Summary:
 
- - [Use Case Diagram](diagrams/use-case/library-management-system.jpeg)
+ - [Use Case Diagram](diagrams/use-case/library-management-system.svg)
  - Activity Diagram
-  - [Issue Book in Library](diagrams/activity/issue-book-in-library.jpeg)
-  - [Return Book in Library](diagrams/activity/return-book-in-library.jpeg)
- - [Class Diagram](diagrams/class/)
+  - [Issue Book in Library](diagrams/activity/issue-book-in-library.svg)
+  - [Return Book in Library](diagrams/activity/return-book-in-library.svg)
+ - [Class Diagram](diagrams/class/library-management-system.svg)
  - State diagram
-  - [Book](diagrams/state/book.jpeg)
-  - [Librarian](diagrams/state/librarian.jpeg)
+  - [Book](diagrams/state/book.svg)
+  - [Librarian](diagrams/state/librarian.svg)
  - Collaboration diagram
-  - [Issuing Book](diagrams/collaboration/)
-  - [Returning Book](diagrams/collaboration/)
+  - [Issuing Book](diagrams/collaboration/issuing-book.svg)
+  - [Returning Book](diagrams/collaboration/returning-book.svg)
  - Sequence diagram
-  - [Issuing book](diagrams/sequence/)
-  - [Returning book](diagrams/sequence/)
- - [Component diagram](diagrams/component/)
+  - [Issuing book](diagrams/sequence/issuing-book.svg)
+  - [Returning book](diagrams/sequence/returning-book.svg)
+ - [Component diagram](diagrams/component/library-management-system.svg)
 
 
 ## Software
