@@ -1,7 +1,7 @@
 # UML for Library Management System
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/uml-solutions/uml-library-management-system.svg?style=flat-square)](https://github.com/uml-solutions/uml-library-management-system/issues)
+[![issues](https://img.shields.io/github/issues/descco-tools/uml-library-management-system.svg?style=flat-square)](https://github.com/descco-tools/uml-library-management-system/issues)
 
 ## Translations
 
@@ -40,7 +40,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/uml-solutions/uml-library-management-system/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-tools/uml-library-management-system/releases) for detailed changelog.
 
 ## License
 
